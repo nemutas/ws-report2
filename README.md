@@ -5,6 +5,8 @@ WebGL Schoolの第2回目の講義の課題です。<br />
 
 https://nemutas.github.io/ws-report2/
 
+<img src='https://github.com/nemutas/ws-report2/assets/46724121/c6bba2a0-6325-4e8f-9481-f4f60a3561e1' width='150' />
+<br /><br />
 <img src='https://github.com/nemutas/ws-report2/assets/46724121/93a615ac-2df6-4c3c-9773-2aa10e4dd131' width='800' />
 
 # Requirement
