@@ -1,0 +1,7 @@
+@use './mixins/medias.scss' as *;
+
+.sp {
+  @include pc {
+    display: none;
+  }
+}
